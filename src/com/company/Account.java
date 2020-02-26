@@ -11,7 +11,7 @@ public abstract class Account {
         balance = startBal;
     }
 
-    public int idNumber()a
+    public int idNumber()
     {
         return idNum;
     }
